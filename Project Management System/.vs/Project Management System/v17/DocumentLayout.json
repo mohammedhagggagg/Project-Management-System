@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Haggagg Rebo\\Windows form\\Project Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5002DE86-6A4A-4BF7-B204-84A0C2653FAD}|Project Management System\\Project Management System.csproj|e:\\haggagg rebo\\windows form\\project management system\\project management system\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5002DE86-6A4A-4BF7-B204-84A0C2653FAD}|Project Management System\\Project Management System.csproj|solutionrelative:project management system\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5002DE86-6A4A-4BF7-B204-84A0C2653FAD}|Project Management System\\Project Management System.csproj|e:\\haggagg rebo\\windows form\\project management system\\project management system\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5002DE86-6A4A-4BF7-B204-84A0C2653FAD}|Project Management System\\Project Management System.csproj|solutionrelative:project management system\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1463,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "E:\\Haggagg Rebo\\Windows form\\Project Management System\\Project Management System\\Tasks.cs",
+              "RelativeDocumentMoniker": "Project Management System\\Tasks.cs",
+              "ToolTip": "E:\\Haggagg Rebo\\Windows form\\Project Management System\\Project Management System\\Tasks.cs",
+              "RelativeToolTip": "Project Management System\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:51:14.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tasks.cs [Design]",
+              "DocumentMoniker": "E:\\Haggagg Rebo\\Windows form\\Project Management System\\Project Management System\\Tasks.cs",
+              "RelativeDocumentMoniker": "Project Management System\\Tasks.cs",
+              "ToolTip": "E:\\Haggagg Rebo\\Windows form\\Project Management System\\Project Management System\\Tasks.cs [Design]",
+              "RelativeToolTip": "Project Management System\\Tasks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:51:12.17Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1463,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
