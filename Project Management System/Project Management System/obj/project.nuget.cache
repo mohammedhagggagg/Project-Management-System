@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IDyOgvoYW48=",
+  "dgSpecHash": "1DLuzIzvXNU=",
   "success": true,
-  "projectFilePath": "E:\\Haggagg Rebo\\Windows form\\Project Management System\\Project Management System\\Project Management System.csproj",
+  "projectFilePath": "E:\\Repositories\\Project-Management-System\\Project Management System\\Project Management System\\Project Management System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

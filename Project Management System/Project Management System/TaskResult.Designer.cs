@@ -132,6 +132,7 @@
             // panel1
             // 
             panel1.AutoSize = true;
+            panel1.BackgroundImage = Properties.Resources.wallpaper68;
             panel1.Controls.Add(pictureBox6);
             panel1.Controls.Add(pictureBox5);
             panel1.Controls.Add(pictureBox4);
@@ -494,6 +495,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Goldenrod;
+            BackgroundImage = Properties.Resources.wallpaper104;
             ClientSize = new Size(1440, 719);
             Controls.Add(Btn_GroupbyPriority);
             Controls.Add(label3);

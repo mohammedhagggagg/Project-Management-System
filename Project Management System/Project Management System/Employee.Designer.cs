@@ -71,6 +71,7 @@
             // 
             // panel1
             // 
+            panel1.BackgroundImage = Properties.Resources.wallpaper61;
             panel1.Controls.Add(pictureBox6);
             panel1.Controls.Add(pictureBox5);
             panel1.Controls.Add(pictureBox4);
@@ -391,6 +392,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             AutoSize = true;
             BackColor = Color.Goldenrod;
+            BackgroundImage = Properties.Resources.wallpaper10;
             ClientSize = new Size(1440, 719);
             Controls.Add(label12);
             Controls.Add(Txt_Password);

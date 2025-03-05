@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Haggagg Rebo\\Windows form\\Project Management System\\Project Management System\\Project Management System.csproj": {}
+    "E:\\Repositories\\Project-Management-System\\Project Management System\\Project Management System\\Project Management System.csproj": {}
   },
   "projects": {
-    "E:\\Haggagg Rebo\\Windows form\\Project Management System\\Project Management System\\Project Management System.csproj": {
+    "E:\\Repositories\\Project-Management-System\\Project Management System\\Project Management System\\Project Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Haggagg Rebo\\Windows form\\Project Management System\\Project Management System\\Project Management System.csproj",
+        "projectUniqueName": "E:\\Repositories\\Project-Management-System\\Project Management System\\Project Management System\\Project Management System.csproj",
         "projectName": "Project Management System",
-        "projectPath": "E:\\Haggagg Rebo\\Windows form\\Project Management System\\Project Management System\\Project Management System.csproj",
+        "projectPath": "E:\\Repositories\\Project-Management-System\\Project Management System\\Project Management System\\Project Management System.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "E:\\Haggagg Rebo\\Windows form\\Project Management System\\Project Management System\\obj\\",
+        "outputPath": "E:\\Repositories\\Project-Management-System\\Project Management System\\Project Management System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -118,16 +118,61 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="performance-tracking-icon-can-be-260nw-2350304125" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\performance-tracking-icon-can-be-260nw-2350304125.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="wallpaper62" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper62.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper101" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper101.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper103" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper103.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="press-button" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\press-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="wallpaper6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\wallpaper6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="wallpaper63" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper63.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="press-button1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\press-button1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper102" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper102.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper105" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper105.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper68" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper68.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper66" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper66.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper64.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper61" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper61.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper67" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper67.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper65" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper65.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper104" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper104.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="performance-tracking-icon-can-be-260nw-2350304125" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\performance-tracking-icon-can-be-260nw-2350304125.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper69" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper69.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

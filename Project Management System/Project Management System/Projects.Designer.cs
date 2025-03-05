@@ -313,6 +313,7 @@
             // 
             // panel1
             // 
+            panel1.BackgroundImage = Properties.Resources.wallpaper64;
             panel1.Controls.Add(pictureBox6);
             panel1.Controls.Add(pictureBox5);
             panel1.Controls.Add(pictureBox4);
@@ -371,6 +372,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             AutoSize = true;
             BackColor = Color.Goldenrod;
+            BackgroundImage = Properties.Resources.wallpaper102;
             ClientSize = new Size(1440, 719);
             Controls.Add(dateTimePickerED);
             Controls.Add(label12);

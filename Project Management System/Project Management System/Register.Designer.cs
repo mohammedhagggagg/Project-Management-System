@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Register));
             panel1 = new Panel();
+            ShowPasswordCheckBox = new CheckBox();
             Lbl_Login = new Label();
             Lbl_Genser = new Label();
             CB_Gender = new ComboBox();
@@ -45,13 +46,13 @@
             Txt_UserName = new TextBox();
             pictureBox1 = new PictureBox();
             label1 = new Label();
-            ShowPasswordCheckBox = new CheckBox();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // panel1
             // 
+            panel1.BackgroundImage = Properties.Resources.wallpaper65;
             panel1.Controls.Add(ShowPasswordCheckBox);
             panel1.Controls.Add(Lbl_Login);
             panel1.Controls.Add(Lbl_Genser);
@@ -73,6 +74,21 @@
             panel1.Size = new Size(683, 598);
             panel1.TabIndex = 8;
             panel1.Paint += panel1_Paint;
+            // 
+            // ShowPasswordCheckBox
+            // 
+            ShowPasswordCheckBox.AutoSize = true;
+            ShowPasswordCheckBox.BackColor = Color.LavenderBlush;
+            ShowPasswordCheckBox.Cursor = Cursors.Hand;
+            ShowPasswordCheckBox.Font = new Font("Segoe UI", 9.75F);
+            ShowPasswordCheckBox.Location = new Point(292, 393);
+            ShowPasswordCheckBox.Margin = new Padding(3, 4, 3, 4);
+            ShowPasswordCheckBox.Name = "ShowPasswordCheckBox";
+            ShowPasswordCheckBox.Size = new Size(148, 27);
+            ShowPasswordCheckBox.TabIndex = 23;
+            ShowPasswordCheckBox.Text = "Show Password";
+            ShowPasswordCheckBox.UseVisualStyleBackColor = false;
+            ShowPasswordCheckBox.CheckedChanged += ShowPasswordCheckBox_CheckedChanged;
             // 
             // Lbl_Login
             // 
@@ -222,21 +238,6 @@
             label1.Size = new Size(308, 27);
             label1.TabIndex = 8;
             label1.Text = "Project Management System";
-            // 
-            // ShowPasswordCheckBox
-            // 
-            ShowPasswordCheckBox.AutoSize = true;
-            ShowPasswordCheckBox.BackColor = Color.LavenderBlush;
-            ShowPasswordCheckBox.Cursor = Cursors.Hand;
-            ShowPasswordCheckBox.Font = new Font("Segoe UI", 9.75F);
-            ShowPasswordCheckBox.Location = new Point(292, 393);
-            ShowPasswordCheckBox.Margin = new Padding(3, 4, 3, 4);
-            ShowPasswordCheckBox.Name = "ShowPasswordCheckBox";
-            ShowPasswordCheckBox.Size = new Size(148, 27);
-            ShowPasswordCheckBox.TabIndex = 23;
-            ShowPasswordCheckBox.Text = "Show Password";
-            ShowPasswordCheckBox.UseVisualStyleBackColor = false;
-            ShowPasswordCheckBox.CheckedChanged += ShowPasswordCheckBox_CheckedChanged;
             // 
             // Register
             // 

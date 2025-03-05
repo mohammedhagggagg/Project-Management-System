@@ -71,6 +71,7 @@
             // 
             // panel1
             // 
+            panel1.BackgroundImage = Properties.Resources.wallpaper62;
             panel1.Controls.Add(pictureBox6);
             panel1.Controls.Add(pictureBox5);
             panel1.Controls.Add(pictureBox4);
@@ -385,12 +386,13 @@
             Txt_Password.Size = new Size(168, 27);
             Txt_Password.TabIndex = 21;
             // 
-            // Employee
+            // EmployeeResult
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             AutoSize = true;
             BackColor = Color.Goldenrod;
+            BackgroundImage = Properties.Resources.wallpaper101;
             ClientSize = new Size(1440, 719);
             Controls.Add(label12);
             Controls.Add(Txt_Password);
@@ -412,7 +414,7 @@
             Controls.Add(label1);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
-            Name = "Employee";
+            Name = "EmployeeResult";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Employee";
             Load += Employee_Load;
